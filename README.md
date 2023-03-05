@@ -13,7 +13,7 @@ iyi hash algoritmasını bulup hem oluşma zamanını hemde dosya boyutunu ortal
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains a folders by default, where:
 
 - `src`: the folder to maintain sources
 
